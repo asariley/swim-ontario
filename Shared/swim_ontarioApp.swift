@@ -11,7 +11,7 @@ import SwiftUI
 struct swim_ontarioApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView().frame(maxWidth: .infinity, maxHeight: .infinity)
         }
     }
 }

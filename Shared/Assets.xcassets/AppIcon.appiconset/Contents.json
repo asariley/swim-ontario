@@ -31,11 +31,13 @@
       "size" : "40x40"
     },
     {
+      "filename" : "noun_swimmer_120.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "60x60"
     },
     {
+      "filename" : "noun_swimmer_180.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "60x60"
@@ -71,11 +73,13 @@
       "size" : "40x40"
     },
     {
+      "filename" : "noun_swimmer_76.png",
       "idiom" : "ipad",
       "scale" : "1x",
       "size" : "76x76"
     },
     {
+      "filename" : "noun_swimmer_152.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "76x76"
@@ -91,41 +95,49 @@
       "size" : "1024x1024"
     },
     {
+      "filename" : "noun_swimmer_16.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "16x16"
     },
     {
+      "filename" : "noun_swimmer_32-1.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "16x16"
     },
     {
+      "filename" : "noun_swimmer_32.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "32x32"
     },
     {
+      "filename" : "noun_swimmer_64.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "32x32"
     },
     {
+      "filename" : "noun_swimmer_128.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "128x128"
     },
     {
+      "filename" : "noun_swimmer_256-1.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "128x128"
     },
     {
+      "filename" : "noun_swimmer_256.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "256x256"
     },
     {
+      "filename" : "noun_swimmer_512.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "256x256"
